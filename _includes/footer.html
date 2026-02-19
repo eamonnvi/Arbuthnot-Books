@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div>
+    <span class="smallcaps">{{ site.title }}</span>
+    <span aria-hidden="true"> · </span>
+    <span>© <span id="y"></span></span>
+  </div>
+  <div class="fine">Hosted as a static site. No cookies. No tracking.</div>
+</footer>
+
+<script>
+  document.getElementById("y").textContent = new Date().getFullYear();
+</script>

@@ -1,0 +1,31 @@
+title: Arbuthnot Books
+description: A small imprint for fiction and ideas.
+url: https://example.com
+baseurl: ""
+timezone: Europe/London
+
+permalink: /notes/:year/:month/:day/:title/
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  books:
+    output: true
+    permalink: /books/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      section: notes

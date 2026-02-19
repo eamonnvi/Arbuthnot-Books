@@ -1,0 +1,16 @@
+<header class="header">
+  <div class="brand">
+    <a class="brand__home" href="{{ "/" | relative_url }}">
+      <span class="mark" aria-hidden="true"></span>
+      <span class="brand__title">{{ site.title }}</span>
+    </a>
+    <p class="sub">{{ site.description }}</p>
+  </div>
+
+  <nav class="nav" aria-label="Site">
+    <a class="pill" href="{{ "/books/" | relative_url }}">Books</a>
+    <a class="pill" href="{{ "/notes/" | relative_url }}">Notes</a>
+    <a class="pill" href="{{ "/about/" | relative_url }}">About</a>
+    <a class="pill" href="{{ "/contact/" | relative_url }}">Contact</a>
+  </nav>
+</header>
