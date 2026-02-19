@@ -32,12 +32,7 @@ description: Arbuthnot Books — fiction and ideas.
   <aside class="card">
     <h2>The Parallax View</h2>
     <p class="meta"><span class="tag">Front cover</span></p>
-    <img
-    src="{{ '/assets/tpv-cover.jpg' | relative_url }}"
-    alt="The Parallax View — front cover"
-    style="width:100%; border:1px solid var(--line); border-radius:14px;"
-    loading="lazy"
-    />
+    <img src="{{ '/assets/tpv-cover.jpg' | relative_url }}" alt="The Parallax View — front cover" style="width:100%; border:1px solid var(--line); border-radius:14px;" loading="lazy" />
     <p class="fine">Place your cover at <span class="mono">assets/tpv-cover.jpg</span>.</p>
   </aside>
 </section>

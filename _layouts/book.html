@@ -1,0 +1,80 @@
+---
+layout: page
+---
+<article class="book">
+
+  <header class="book__header">
+    <h1 class="book__title">{{ page.title }}</h1>
+
+    {% if page.lede %}
+      <p class="lede">{{ page.lede }}</p>
+    {% endif %}
+
+    {% if page.tags %}
+      <p class="meta">
+        {% for t in page.tags %}
+          <span class="tag">{{ t }}</span>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </header>
+
+  <section class="book__grid">
+    <aside class="book__media">
+      {% if page.cover %}
+        <img
+          class="book__cover"
+          src="{{ page.cover | relative_url }}"
+          alt="{{ page.title }} — cover"
+          loading="lazy"
+        />
+      {% endif %}
+
+      {% if page.links %}
+        <div class="book__actions">
+          {% if page.links.buy %}
+            <a class="btn" href="{{ page.links.buy }}" target="_blank" rel="noopener">Buy / Retailers →</a>
+          {% endif %}
+
+          {% if page.links.sample %}
+            <a class="btn secondary" href="{{ page.links.sample | relative_url }}" target="_blank" rel="noopener">
+              Read a sample (PDF) →
+            </a>
+          {% endif %}
+
+          {% if page.links.sequence %}
+            <a class="btn ghost" href="{{ page.links.sequence }}" target="_blank" rel="noopener">
+              Sequence / Series →
+            </a>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      {% if page.meta %}
+        <dl class="book__facts">
+          {% for item in page.meta %}
+            <div class="book__fact">
+              <dt>{{ item.label }}</dt>
+              <dd>{{ item.value }}</dd>
+            </div>
+          {% endfor %}
+        </dl>
+      {% endif %}
+    </aside>
+
+    <div class="book__body prose">
+      {{ content }}
+
+      {% if page.excerpts %}
+        <hr />
+        <h2>Excerpts</h2>
+        {% for ex in page.excerpts %}
+          <blockquote>
+            {{ ex | markdownify }}
+          </blockquote>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+
+</article>

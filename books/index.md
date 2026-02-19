@@ -1,13 +1,16 @@
 ---
 title: Books
 lede: The Arbuthnot Books list.
+layout: page
+permalink: /books/
 ---
 
-- **The Parallax View** — London/Cambridge, 1976.  
-  [Book page →](/books/the-parallax-view/)
-
-- **Event/Horizon** — Cambridge, 1974.  
-  [Book page →](/books/event-horizon/)
-
-- **Palace of Tears** — Berlin, 1975.  
-  [Book page →](/books/palace-of-tears/)
+<ul>
+{% assign items = site.books | sort: "order" %}
+{% for b in items %}
+  <li>
+    <a href="{{ b.url }}">{{ b.title }}</a>
+    {% if b.lede %}<span class="fine"> — {{ b.lede }}</span>{% endif %}
+  </li>
+{% endfor %}
+</ul>
