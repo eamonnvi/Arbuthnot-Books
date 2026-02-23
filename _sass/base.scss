@@ -225,3 +225,71 @@ h2{ font-size: 22px; margin: 0 0 10px; }
   text-transform: uppercase;
 }
 .book__fact dd{ margin: 0; }
+
+/* Notes typography */
+.post__header{
+  margin-bottom: 18px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.post__title{
+  font-family: var(--serif);
+  font-size: 30px;
+  line-height: 1.15;
+  margin: 0 0 8px;
+}
+
+.post__meta{
+  margin: 0 0 14px;
+  font-size: 13px;
+  color: var(--muted);
+  letter-spacing: .02em;
+}
+
+.post__author{
+  font-style: italic;
+}
+
+.post__body{
+  max-width: 72ch;
+}
+
+.post__body p{
+  margin: 0 0 14px;
+}
+
+.post__body h2{
+  margin-top: 26px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.post__body h3{
+  margin-top: 20px;
+  margin-bottom: 8px;
+  font-size: 16px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.post__body blockquote{
+  margin: 18px 0;
+  padding-left: 16px;
+  border-left: 3px solid var(--line);
+  color: var(--muted);
+}
+
+.post__body hr{
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 26px 0;
+}
+
+.notes-latest{
+  margin: 10px 0 0;
+  padding-left: 18px;
+}
+.notes-latest li{
+  margin: 10px 0;
+}

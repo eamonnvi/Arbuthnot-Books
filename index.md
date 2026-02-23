@@ -35,4 +35,32 @@ description: Arbuthnot Books — fiction and ideas.
     <img src="{{ '/assets/tpv-cover.jpg' | relative_url }}" alt="The Parallax View — front cover" style="width:100%; border:1px solid var(--line); border-radius:14px;" loading="lazy" />
     <p class="fine">Place your cover at <span class="mono">assets/tpv-cover.jpg</span>.</p>
   </aside>
+  
+  <section style="margin-top:16px">
+  <div class="card">
+    <h2>Latest from Notes</h2>
+    <p class="fine">Occasional essays and workshop reflections.</p>
+
+    <ul class="notes-latest">
+      {% assign latest = site.posts | slice: 0, 3 %}
+      {% for post in latest %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="fine">
+            — {{ post.date | date: "%-d %B %Y" }}
+            {% if post.author %}
+              {% assign author_key = post.author | downcase %}
+              {% assign author = site.data.authors[author_key] %}
+              · {{ author.name | default: post.author }}
+            {% endif %}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p style="margin:12px 0 0">
+      <a class="pill" href="{{ '/notes/' | relative_url }}">All Notes →</a>
+    </p>
+  </div>
+</section>
 </section>

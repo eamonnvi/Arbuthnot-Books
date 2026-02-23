@@ -1,5 +1,6 @@
 ---
 title: "First note"
+author: eamonn
 lede: A test post to confirm the pipeline works.
 tags: [notes]
 ---
