@@ -22,4 +22,4 @@ meta:
     value: 1976
 ---
 
-A Cold War novel set across London and Cambridge in 1976: archives, doubleness, and the gap between what is said and what is meant.
+A Cold War novel set in London and Cambridge in 1976: archives, doubleness, and the gap between what is said and what is meant.
