@@ -293,3 +293,26 @@ h2{ font-size: 22px; margin: 0 0 10px; }
 .notes-latest li{
   margin: 10px 0;
 }
+
+.links {
+  margin: 0 0 14px 0;   /* adjust to taste */
+}
+
+.links .btn {
+  display: inline-block;
+  margin-top: 4px;
+}
+
+/* Home page grid: keep Notes in left column under the book card */
+.home-grid {
+  align-items: start;
+}
+
+.home-cover {
+  grid-row: 1 / span 2;   /* cover spans both rows */
+}
+
+.home-notes {
+  grid-column: 1;         /* notes stay in the left column */
+  grid-row: 2;
+}

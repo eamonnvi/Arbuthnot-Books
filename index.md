@@ -3,8 +3,7 @@ title: Arbuthnot Books
 layout: default
 description: Arbuthnot Books — fiction and ideas.
 ---
-
-<section class="grid">
+<section class="grid home-grid">
   <article class="card">
     <h2>The Parallax View</h2>
     <p class="lede">
@@ -21,25 +20,36 @@ description: Arbuthnot Books — fiction and ideas.
       This is the new minimalist website of Arbuthnot Books built in <span class="mono">Jekyll</span> and hosted on <span class="mono">Netlify</span>.
     </p>
 
-    <p>
-      <a href="https://www.amazon.co.uk/Parallax-View-Thieves-Time-Book-ebook/dp/B0FYY7SDYM/" target="_blank" rel="noopener">Buy / Retailers →</a><br/>
+    <p class="links">
+      <a href="https://www.amazon.co.uk/Parallax-View-Thieves-Time-Book-ebook/dp/B0FYY7SDYM/" target="_blank" rel="noopener">
+        Buy / Retailers →
+      </a>
+    </p>
 
+    <p class="links">
       <a class="btn" href="{{ '/assets/pdfs/TPV-17nov25-sample.pdf' | relative_url }}" target="_blank" rel="noopener">
-      Read a sample (PDF) </a><br/>
+        Read a sample (PDF)
+      </a>
+    </p>
 
-      <a href="https://www.amazon.co.uk/dp/B0FG3BGSG3" target="_blank" rel="noopener">Steve Percival sequence →</a>
+    <p class="links">
+      <a href="https://www.amazon.co.uk/dp/B0FG3BGSG3" target="_blank" rel="noopener">
+        Steve Percival sequence →
+      </a>
     </p>
   </article>
 
-  <aside class="card">
+  <aside class="card home-cover">
     <h2>The Parallax View</h2>
     <p class="meta"><span class="tag">Front cover</span></p>
-    <img src="{{ '/assets/tpv-cover.jpg' | relative_url }}" alt="The Parallax View — front cover" style="width:100%; border:1px solid var(--line); border-radius:14px;" loading="lazy" />
+    <img src="{{ '/assets/tpv-cover.jpg' | relative_url }}"
+         alt="The Parallax View — front cover"
+         style="width:100%; border:1px solid var(--line); border-radius:14px;"
+         loading="lazy" />
     <p class="fine">Place your cover at <span class="mono">assets/tpv-cover.jpg</span>.</p>
   </aside>
-  
-  <section style="margin-top:16px">
-  <div class="card">
+
+  <div class="card home-notes">
     <h2>Latest from Notes</h2>
     <p class="fine">Occasional essays and workshop reflections.</p>
 
@@ -64,5 +74,4 @@ description: Arbuthnot Books — fiction and ideas.
       <a class="pill" href="{{ '/notes/' | relative_url }}">All Notes →</a>
     </p>
   </div>
-</section>
 </section>
