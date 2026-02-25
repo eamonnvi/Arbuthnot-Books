@@ -33,7 +33,7 @@ description: Arbuthnot Books — fiction and ideas.
     </p>
 
     <p class="links">
-      <a href="https://www.amazon.co.uk/dp/B0FG3BGSG3" target="_blank" rel="noopener">
+      <a href="https://www.amazon.co.uk/dp/B0FG3BGSG3?binding=paperback&ref=dbs_m_mng_rwt_sft_tpbk_tkin" target="_blank" rel="noopener">
         Steve Percival sequence →
       </a>
     </p>
@@ -46,7 +46,7 @@ description: Arbuthnot Books — fiction and ideas.
          alt="The Parallax View — front cover"
          style="width:100%; border:1px solid var(--line); border-radius:14px;"
          loading="lazy" />
-    <p class="fine">Place your cover at <span class="mono">assets/tpv-cover.jpg</span>.</p>
+    <p class="fine">"The truth is what one is not allowed to say -M."</p>
   </aside>
 
   <div class="card home-notes">
