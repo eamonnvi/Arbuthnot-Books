@@ -8,7 +8,7 @@ description: Arbuthnot Books — fiction and ideas.
   <article class="card">
     <h2>The Parallax View</h2>
     <p class="lede">
-      A Cold War novel set across London and Cambridge in 1976: archives, doubleness, and the gap between what is said and what is meant.
+      A Cold War novel set in London and Cambridge in 1976: archives, doubleness, and the gap between what is said and what is meant.
     </p>
 
     <p class="meta">
