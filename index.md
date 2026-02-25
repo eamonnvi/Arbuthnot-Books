@@ -18,13 +18,15 @@ description: Arbuthnot Books — fiction and ideas.
     </p>
 
     <p class="fine">
-      This is a minimalist placeholder site. Add book pages under <span class="mono">/books/</span>, and posts under <span class="mono">/notes/</span>.
+      This is the new minimalist website of Arbuthnot Books built in <span class="mono">Jekyll</span> and hosted on <span class="mono">Netlify</span>.
     </p>
 
     <p>
       <a href="https://www.amazon.co.uk/Parallax-View-Thieves-Time-Book-ebook/dp/B0FYY7SDYM/" target="_blank" rel="noopener">Buy / Retailers →</a><br/>
+
       <a class="btn" href="{{ '/assets/pdfs/TPV-17nov25-sample.pdf' | relative_url }}" target="_blank" rel="noopener">
       Read a sample (PDF) </a><br/>
+
       <a href="https://www.amazon.co.uk/dp/B0FG3BGSG3" target="_blank" rel="noopener">Steve Percival sequence →</a>
     </p>
   </article>
