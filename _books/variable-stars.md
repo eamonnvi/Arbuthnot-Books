@@ -1,10 +1,10 @@
 ---
 layout: book
-title: Event/Horizon
-author: Eamonn Vincent
-lede: London & Cambridge, 1974 — love & poetry.
-order: 1
-cover: /assets/EH-Front-cover-29nov25.jpg
+title: Variable Stars
+author: Christina Koning
+lede: Bath, 1840 — love & astronomy.
+order: 0
+cover: /assets/VS-Front-cover.png
 
 tags:
   - Cambridge · 1974

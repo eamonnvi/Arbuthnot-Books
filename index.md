@@ -17,8 +17,8 @@ description: Arbuthnot Books — fiction and ideas.
     </p>
 
     <p class="fine">
-      This is the new minimalist website of Arbuthnot Books built in <span class="mono">Jekyll</span> and hosted on <span class="mono">Netlify</span>.
-    </p>
+		Eamonn Vincent's The Parallax View is the third book in The Thieves of Time series. It was preceded by Event/Horizon and Palace of Tears.  
+	</p>
 
     <p class="links">
       <a href="https://www.amazon.co.uk/Parallax-View-Thieves-Time-Book-ebook/dp/B0FYY7SDYM/" target="_blank" rel="noopener">

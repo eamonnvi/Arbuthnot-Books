@@ -1,6 +1,7 @@
 ---
 layout: book
 title: The Parallax View
+author: Eamonn Vincent
 lede: London & Cambridge, 1976 — archives, doubleness, and what is not said.
 order: 3
 cover: /assets/tpv-cover.jpg
@@ -22,4 +23,8 @@ meta:
     value: 1976
 ---
 
-A Cold War novel set in London and Cambridge in 1976: archives, doubleness, and the gap between what is said and what is meant.
+Cambridge college courts, Soho pubs and the anonymous offices of MI6: The Parallax View is a luminous, quietly brutal spy novel about identity, desire and the corrosive trade-offs of secrecy. Eamonn Vincent’s prose is cool and precise, suffused with smoky atmospheres—high-table dinners, decanted Haut-Brion, a humidor’s cedar scent—yet shot through with tender grief and erotic misfires. Themes of doubleness and deception pulse at the book’s core: twins and masks, academic brilliance and clandestine loyalties, love as an operational risk.
+
+Stylish and unsparing, the novel melds literary intelligence with classic espionage suspense. Characters are drawn with psychological nuance: a grieving son, his wily handlers, haunted scholars and a woman whose past refuses to stay buried. Vincent’s narrative is moral and melancholic rather than flashy—an elegiac, intellectually charged interrogation of who we become when watched.
+
+Written in a subtly polyphonic style and delivered in a literary, suspenseful voice that prizes atmosphere and moral ambiguity, The Parallax View will grip readers who crave thoughtful spy fiction.
