@@ -9,11 +9,11 @@ cover: /assets/FP-KDP-23oct25.png
 tags:
   - London & Suffolk · 2023
   - Cryptocurrency · Literary
-  - Identity · Betrayal · Desire
+  - Plagiarism · Scandal · Dark comedy
 
 links:
   buy: https://www.amazon.co.uk/Foul-Papers-Eamonn-Vincent-ebook/dp/B0BZJNT28H
-  sample: /assets/pdfs/TPV-17nov25-sample.pdf
+  sample: /assets/pdfs/FP-sample.pdf
   sequence: 
 
 meta:
@@ -23,8 +23,9 @@ meta:
     value: 2023
 ---
 
-A quietly combustible literary thriller about love, art and the prices we pay for both. Foul Papers follows tangled lives across country houses and newsrooms: a celebrated poet guarding his vanished past, a celebrity torn between ambition and conscience, a young coder with a scholar’s hunger for truth. Eamonn Vincent conjures a world of hedged gardens, smoky pubs and slick PR machines where memory, authorship and secrecy collide—stitching elegiac lyricism to razor‑sharp satire.
+<strong>FOUL PAPERS</strong> opens in the domestic and social world of Westwich, a small East Anglian town. We meet (among others) three central players: Charles Davenport, a noted but ageing poet who has recently downsized and is selling his large house (The Hollies); Sarah Greenstreet, a successful TV newsreader and celebrity who is undergoing a messy divorce from Richard Greenstreet, a charismatic (if self-interested) Conservative politician; and Jaz (Jasmine) Smith, a local stylist-turned-coder who has, by happenstance, acquired the papers of a deceased local woman, Jean Smith—diaries, letters, and a small body of poems.
 
-Atmosphere: intimate, elegiac, occasionally vicious. Themes: plagiarism and provenance, power and vulnerability, desire and reinvention. Style: literate, conversational, keen on moral complexity—dialogue that crackles, prose that savours small domestic detail and big ethical quandaries. Emotionally, the book moves from wry amusement to tender regret, delivering both relish and ache.
+The plot advances by bringing these characters into overlapping, escalating contact. Sarah, looking for a rural house and a fresh start to boost an arts-focused television pitch, becomes the buyer of The Hollies. She meets Charles at a viewing, is charmed by his reticent literary fame, and a short, improbable but tender affair between them begins. Their liaison becomes fodder for paparazzi and PR in short order when Sarah—whose career and public visibility make her a ready story—becomes associated publicly with Charles. A tabloid photograph of Sarah and Charles together sets off a media ripple: publishers and agents smell opportunity; Charles’s long-time publisher Jon Wilde hopes to exploit the publicity; Sarah’s agent Penny and PR operatives manoeuver to sculpt the story.
 
-Perfect for readers of contemporary literary suspense and cultural critique, Foul Papers asks who owns a life’s work—and what we do when the past resurfaces. Written in British English with a wry, erudite style and an emphasis on character and atmosphere, this is a novel that will haunt your thoughts long after the last page. Ready to be drawn in?
+Parallel to the intimacy plot runs a scandal plot about authorship: Jaz, after buying Jean Smith’s house and sorting its attic, realizes that Jean and Charles had had a relationship decades ago; Jean’s letters apparently contributed material to Charles’s most celebrated collection, Schwarzschild. Jaz intends to write a corrective history—one that would treat Jean’s work seriously and show how it has been subsumed into Davenport’s fame. Independently, a small group of “hacktivist” and academic-minded critics—Hacker-ish types—have been using textual comparison tools to identify copying and appropriation in contemporary poetry. The threat that these tools (and the shaming they produce) pose to reputations hangs over the characters.
+

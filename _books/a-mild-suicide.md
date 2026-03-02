@@ -13,7 +13,7 @@ tags:
 
 links:
   buy: https://www.amazon.co.uk/Mild-Suicide-Christina-Koning/dp/0956521487
-  sample: /assets/pdfs/TPV-17nov25-sample.pdf
+  sample: /assets/pdfs/AMS-sample.pdf
   sequence:
 
 meta:
@@ -22,12 +22,16 @@ meta:
   - label: Year
     value: 1976
 ---
-A Mild Suicide follows a small, corrosive domestic drama played out among expatriate academics in 1970s Edinburgh. Saul Meyer, an American Renaissance scholar doing a year’s research in Britain while his wife Virginia completes a teacher-training course in New York, finds himself adrift in a social world of seminars, pubs and small theatricalities. He meets Catherine, a witty, sexually adventurous young woman; the two embark on an intense affair that gradually embroils other flatmates and friends. Virginia, making an impulsive trip to surprise Saul, discovers the affair; a child is born; Saul vacillates and ultimately returns to Virginia and their newborn. The novel registers the substitute deaths that accompany betrayals and departures—of devoted selves, of plans and of rivalries—more than any single catastrophic event; it is a book about eros as rearrangement, about identity as palimpsest, and about the ordinary, incremental dissolutions that the title (A Mild Suicide) mourns.
- 
-A gorgeously observant, unflinching novel of desire, exile and the private violences of ordinary lives.
+<strong>A MILD SUICIDE</strong> follows Saul Meyer, an American PhD student in Renaissance literature, and the entwined lives of those around him during a year in Edinburgh. Saul arrives lonely, homesick for his wife Virginia and dogged by academic insecurity under the sardonic Professor Richardson. He moves among a circle of expatriate scholars and bohemians—Magda, Jonathan Strange, Robin and Gillian Orr, Robert Fischer—attending parties, seminars and readings, where talk of literature and cultural decline alternates with sexual intrigue.
 
-Set against the rain-slick streets and stone towers of 1970s Edinburgh, A Mild Suicide follows an American scholar adrift in a city that feels as much like a memory as a map. Christina Koning’s prose is both cool and incandescent—precise about scholarship and sensuality, ruthless about the small cruelties we do to one another, tender about the strange comforts of companionship. In rooms scored by cigarettes, sherry and late-night music, three lives brush and tangle: brilliant, dissatisfied, and sometimes dangerous. Libraries echo with erudition and loneliness; pubs and parties become stages for longing, mockery and the accidental intimacy of strangers.
+Saul’s central vulnerability is exposed when he meets Catherine, a mercurial, sexually adventurous woman who becomes his lover. Their affair is furtive and hedonistic, staged in cheap bedsits and in Jonathan’s more theatrical rooms. Catherine, who confesses a history of picking up men and finding playing cards in the street, oscillates between emotional detachment and a desire for control; she uses sex both for pleasure and as a way to assert power. Saul is alternately ardent and evasive: he wants intimacy but cannot break from the responsibilities and ties that bind him—particularly his marriage.
 
-This is literary fiction that smells of rain and tobacco, that listens to the rhythm of moral hesitation and the ache of wanting. Themes of identity, fidelity, and the porous boundary between art and life are rendered in sentences that are witty, lyrical and occasionally devastating. Koning’s novel reads like a palimpsest: layers of culture and feeling—Spenser and Eisenberg, opera and punk—reveal and erase one another, until every character’s small choice refracts outward.
+Virginia, Saul’s wife, is introduced as earnest, practical and vulnerable. She comes to Edinburgh pregnant, bringing with her a straightforward moral tone that contrasts with Catherine’s amorality and Saul’s ambiguity. Virginia’s growing belly and expectations for domestic stability heighten the tension: Saul must navigate his attachment to Catherine, his guilt, and the duties of impending fatherhood. He repeatedly fails to confess the affair to Virginia, partly from cowardice and partly from a hope the affair might be a transient misstep.
 
-For readers who love smart, atmospheric storytelling—where atmosphere is a character, and the quietest confession can redraw a life—A Mild Suicide is a quietly electrifying debut. Step inside and let the city do its work; the next page will not leave you where you began.
+Social life—cocktail parties, readings by celebrity writers, Magda’s noisy, themed gatherings and a violent-sounding punk concert—provides a backdrop where ideas about art, identity and honesty are debated. The university setting and characters like the charismatic Leo Eisenberg and the curmudgeonly Richardson frame the novel’s recurring concerns about originality, the palimpsest of influences, and the difficulty of authentic expression. Catherine’s structuralist-tinged thesis and Saul’s Spenser studies offer metaphors for the layering and erasure of selves.
+
+A crisis comes with Virginia’s labor: complications, a night at the hospital, and a fraught delivery. Saul experiences a complex upheaval—guilt, awe at fatherhood, and reconciliation with his responsibilities. The birth of their son, Aaron John, is a turning point: Virginia and Saul return to America, Saul secures a position at Cornell, and their family takes precedence.
+
+Catherine is left to reckon with the affair’s aftermath. Initially intending to expose Saul, she refrains; in time she recognizes her marginal position. She absorbs the emotional cost and tries to move on—acknowledging that her role in Saul’s life, passionate yet provisional, was both disruptive and ultimately instrumental in restoring his marriage. The book closes on a poignant, ambiguous note: a postcard from Ithaca bearing a Spenser quotation and a serpent initial, a seal of continuing distance and the palimpsestic traces their connections have left behind.
+
+Throughout, Christina Koning explores desire, hypocrisy and the tension between public persona and private life—how people rewrite and delete one another like palimpsests, and how some acts of intimacy become, for better or worse, mild suicides of the self.

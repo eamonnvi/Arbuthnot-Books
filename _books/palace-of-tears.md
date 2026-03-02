@@ -9,11 +9,11 @@ cover: /assets/PoT-Front-cover-29nov25.jpg
 tags:
   - Cambridge & Berlin · 1975
   - Espionage · Literary
-  - Identity · Betrayal · Desire
+  - Identity · Betrayal · Cold War
 
 links:
   buy: https://www.amazon.co.uk/Palace-Tears-Eamonn-Vincent/dp/1068703822/
-  sample: /assets/pdfs/TPV-17nov25-sample.pdf
+  sample: /assets/pdfs/PoT-sample.pdf
   sequence: https://www.amazon.co.uk/dp/B0FG3BGSG3
 
 meta:
@@ -23,10 +23,11 @@ meta:
     value: 1976
 ---
 
-Palace of Tears is a lush, razor‑bright novel of desire, deception and the private costs of public lives. Set between Cambridge and a divided 1970s Berlin, Eamonn Vincent weaves academic wit, theatre glamour and Cold War menace into a story about lovers who bargain with bodies, fathers who keep secrets, and the small betrayals that become historical breaches.
+<strong>PALACE OF TEARS</strong> follows a compact, morally tangled ensemble set in 1974–75 Cambridge and Berlin. The novel opens in the aftermath of Peter having left Grace for Ginny, who quickly uses an unexpected pregnancy to secure financial advantage via her wealthy father. Grace, ignorant of these events but conscious that she has only a limited time in which to become pregnant herself, resolves to have a child; rather than count on a conventional partner she fixes on Steve. The two begin a fraught, passionate liaison: Grace offers domestic stability and status, Steve offers youth and fertility.
 
-Atmosphere: damp Fenland mornings, smoky rehearsal rooms, the humming dread of border crossings—Vincent renders place as character, every room charged with memory and risk. Themes of power, class, art and parenthood move the narrative with quiet insistence; the novel is as much about who tells a story as about what the story costs.
+Parallel to the love-drama runs an espionage thread. Mavis, Steve's mother, is not merely a lonely civil servant but entangled in intelligence work. In Berlin, she is knocked down in what may be a hit-and-run; Collingwood, a Foreign Office contact who escorts Steve in Berlin hints that darker forces are in play. Steve is reluctantly drawn into a covert courier task — crossing into East Berlin to pass documents to an intermediary named Inge — and discovers how easily erotic encounters can be instrumentalised by intelligence work.
 
-Style: elegantly observant, wry and unsparing, Palace of Tears balances classical literary command with sharp, contemporary dialogue. It is intimate and epic at once—poignant in grief, mischievous in romance, uncompromising in moral complexity.
+Back in Cambridge and in an attempt to understand life and love in a surveillance state, Steve writes Palace of Tears, a play transposing Berlin’s moral ambiguities to the stage. Gary Lewis, a successful director, mounts the play at the Festival Theatre; rehearsals, casting (and the politics of nudity on stage), production crises and a fraught premiere follow. The play functions as a public testing ground for private wounds: critics, colleagues and lovers converge for the first night, which is a small triumph, but subsequently the mood changes and for reasons that Steve can't understand he is effectively ostracised.
 
-For readers of literary suspense and uncompromising character drama: a novel that lingers long after the last page.
+Behind this change in the play's fortunes and Steve's standing lies Sheena Ferguson, Mavis’s former lover and a senior figure in the intelligence apparatus. Grace, compromised both emotionally and professionally, agrees to cooperate in ways that betray Steve; she ultimately breaks with him, claiming she cannot be both mother-substitute and lover. Utterly bemused, Steve leaves Cambridge and returns to his dead mother's flat in London.
+
