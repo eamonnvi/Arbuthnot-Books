@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Parallax View
-author: Eamonn Vincent
+author_id: eamonn
 lede: London & Cambridge, 1976 — archives, doubleness, and what is not said.
 order: 3
 cover: /assets/tpv-cover.jpg

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Foul Papers
-author: Eamonn Vincent
+author_id: eamonn
 lede: London & Suffolk, 2023 — media, politics, cryptocurrency, appropriation.
 order: 3
 cover: /assets/FP-KDP-23oct25.png

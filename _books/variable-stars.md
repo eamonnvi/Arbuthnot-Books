@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Variable Stars
-author: Christina Koning
+author_id: christina
 lede: Bath, 1780-1840 — love & astronomy.
 order: 0
 cover: /assets/VS-Front-cover.png

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Me Neither - A Memoir
-author: Eamonn Vincent
+author_id: eamonn
 lede: 1970s first shoots of the gig economy.
 order: 0
 cover: /assets/MN-Front-Cover.png

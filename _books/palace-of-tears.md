@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Palace of Tears
-author: Eamonn Vincent
+author_id: eamonn
 lede: Cambridge & Berlin, 1975 — The Festival Theatre & Prenzlauer Berg.
 order: 2
 cover: /assets/PoT-Front-cover-29nov25.jpg

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Fabulous Time
-author: Christina Koning
+author_id: christina
 lede: Sussex, 1966 — social satire & quiet melancholy.
 order: 0
 cover: /assets/fabulous-time-cover.jpg

@@ -1,7 +1,7 @@
 ---
 layout: book
 title: The Dark Tower
-author: Christina Koning
+author_id: christina
 lede: Zulu War novel — Isandhlwana.
 order: 0
 cover: /assets/the-dark-tower-cover.jpg

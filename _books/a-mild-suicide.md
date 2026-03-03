@@ -1,7 +1,7 @@
 ---
 layout: book
 title: A Mild Suicide
-author: Christina Koning
+author_id: christina
 lede: Edinburgh, 1976 — Postgraduate love triangle.
 order: 0
 cover: /assets/a-mild-suicide-cover.jpg

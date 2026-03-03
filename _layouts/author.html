@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% assign a = site.data.authors[page.author_id] %}
+
+<header class="author-header">
+  {% if a.photo %}<img class="author-photo" src="{{ a.photo | relative_url }}" alt="{{ a.name }}">{% endif %}
+  <h1>{{ a.name }}</h1>
+  <div class="author-bio">{{ a.bio | markdownify }}</div>
+</header>
+
+<section class="author-books">
+  <h2>Books</h2>
+  <ul class="book-list">
+    {% assign authored = site.books | where: "author_id", page.author_id %}
+    {% for book in authored %}
+      <li>
+        <a href="{{ book.url | relative_url }}">{{ book.title }}</a>
+        {% if book.tagline %}<div class="muted">{{ book.tagline }}</div>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>

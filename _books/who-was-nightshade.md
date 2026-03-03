@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Who Was Nightshade?
-author: Eamonn Vincent
+author_id: eamonn
 lede: Hertfordshire, 1963 — Teenage love - Cold War.
 order: 0
 cover: /assets/WWN-Front-cover.jpg

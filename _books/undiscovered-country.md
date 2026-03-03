@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Undiscovered Country
-author: Christina Koning
+author_id: christina
 lede: Venzuela, 1950s — love in the oilfields.
 order: 0
 cover: /assets/undiscovered-country-cover.jpg

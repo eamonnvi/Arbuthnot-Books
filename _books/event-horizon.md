@@ -1,7 +1,7 @@
 ---
 layout: book
 title: Event/Horizon
-author: Eamonn Vincent
+author_id: eamonn
 lede: Cambridge, 1974 — astrophysics & poetry.
 order: 1
 cover: /assets/EH-Front-cover-29nov25.jpg
