@@ -19,7 +19,6 @@ permalink: /contact/
         class="contact-form">
 
     <input type="hidden" name="form-name" value="contact">
-    <input type="hidden" name="redirect" value="/contact/thank-you/">
 
     <p class="hidden">
       <label>Don’t fill this out:
