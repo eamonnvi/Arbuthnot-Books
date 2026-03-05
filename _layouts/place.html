@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="place">
+
+  <header class="place__header">
+    <h1 class="place__title">{{ page.title }}</h1>
+    {% if page.parent %}
+      {% assign parent_doc = site.places | where: "place_id", page.parent | first %}
+      {% assign parent_data = site.data.places[page.parent] %}
+      {% if parent_doc %}
+        <p class="fine">
+          In <a href="{{ parent_doc.url | relative_url }}">
+            {% if parent_data and parent_data.title %}{{ parent_data.title }}{% else %}{{ parent_doc.title }}{% endif %}
+          </a>
+        </p>
+      {% endif %}
+    {% endif %}
+  </header>
+
+  <div class="place__body prose">
+    {{ content }}
+  </div>
+
+  {% assign used_in = site.books | where_exp: "b", "b.entity_places contains page.place_id" | sort: "order" %}
+  {% if used_in and used_in.size > 0 %}
+    <section class="place__books">
+      <h2>Appears in</h2>
+      <ul class="book-list">
+        {% for b in used_in %}
+          <li>
+            <a href="{{ b.url | relative_url }}">{{ b.title }}</a>
+            {% if b.lede %}<div class="muted">{{ b.lede }}</div>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+</article>

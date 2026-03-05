@@ -5,9 +5,10 @@ layout: default
 
   <header class="book__header">
     <h1 class="book__title">{{ page.title }}</h1>
-	{% if page.author %}
- 	   <p class="fine">By {{ page.author }}</p>
-    {% endif %}
+	{% assign a = site.data.authors[page.author_id] %}
+	{% if a %}
+  	  <p class="fine">By <a href="{{ '/authors/' | append: page.author_id | append: '/' | relative_url }}">{{ a.name }}</a></p>
+	{% endif %}
     {% if page.lede %}
       <p class="lede">{{ page.lede }}</p>
     {% endif %}
@@ -19,6 +20,40 @@ layout: default
         {% endfor %}
       </p>
     {% endif %}
+    
+{% if page.entity_places %}
+  {% assign limit = 6 %}
+  <p class="meta meta--places">
+    <span class="muted">Places:</span>
+
+    {% for pid in page.entity_places limit: limit %}
+      {% assign pdoc = site.places | where: "place_id", pid | first %}
+      {% assign pdata = site.data.places[pid] %}
+
+      {% if pdoc %}
+        <a class="place-link" href="{{ pdoc.url | relative_url }}">
+          {% if pdata and pdata.title %}
+            {{ pdata.title }}
+          {% else %}
+            {{ pdoc.title | default: pid }}
+          {% endif %}
+        </a>
+      {% else %}
+        {% if pdata and pdata.title %}
+          {{ pdata.title }}
+        {% else %}
+          {{ pid }}
+        {% endif %}
+      {% endif %}{% unless forloop.last %} · {% endunless %}
+    {% endfor %}
+
+    {% if page.entity_places.size > limit %}
+      · <a class="place-link" href="{{ '/places/' | relative_url }}">more…</a>
+    {% endif %}
+  </p>
+{% endif %}
+
+
   </header>
 
   <section class="book__grid">

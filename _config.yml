@@ -1,6 +1,6 @@
 title: Arbuthnot Books
 description: A small imprint for fiction and ideas.
-url: https://example.com
+url: https://arbuthnot-books.com
 baseurl: ""
 timezone: Europe/London
 
@@ -17,6 +17,9 @@ collections:
   books:
     output: true
     permalink: /books/:name/
+  places:
+    output: true
+    permalink: /places/:name/
 
 defaults:
   - scope:

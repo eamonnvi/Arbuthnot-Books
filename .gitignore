@@ -13,6 +13,10 @@ vendor/bundle/
 # Obsidian
 .obsidian/
 
+build_places_from_entities.py
+debug-places.md
+eh/
+
 # Environment files (just in case)
 .env
 .env.*_site/

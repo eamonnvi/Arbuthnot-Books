@@ -113,6 +113,12 @@ h1,h2{
 h1{ font-size: 30px; margin: 0 0 10px; }
 h2{ font-size: 22px; margin: 0 0 10px; }
 
+/* Place pages: tone down the H1 */
+.place__title{
+  font-size: 24px;
+  margin: 0 0 10px;
+}
+
 .lede{
   font-size: 16.5px;
   color: var(--text);
@@ -299,7 +305,6 @@ h2{ font-size: 22px; margin: 0 0 10px; }
 }
 
 .links .btn {
-  display: inline-block;
   margin-top: 4px;
 }
 
@@ -330,7 +335,7 @@ h2{ font-size: 22px; margin: 0 0 10px; }
   display: block;
   width: 3rem;
   height: 1px;
-  background: #ccc;
+  background: var(--line);
   margin: 0 auto 3rem auto;
 }
 
@@ -358,27 +363,36 @@ h2{ font-size: 22px; margin: 0 0 10px; }
   margin-bottom: 0.6rem;
 }
 
-.contact-form input,
-.contact-form textarea {
+.contact-form input{
   width: 100%;
   border: none;
-  border-bottom: 1px solid #bbb;
+  border-bottom: 1px solid var(--line);
   padding: 0.4rem 0;
   font-family: inherit;
   font-size: 1rem;
   background: transparent;
-  min-height: 8rem
+}
+
+.contact-form textarea{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  padding: 0.4rem 0;
+  font-family: inherit;
+  font-size: 1rem;
+  background: transparent;
+  min-height: 8rem;
 }
 
 .contact-form input:focus,
 .contact-form textarea:focus {
   outline: none;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid var(--text);
 }
 
 .contact-submit {
   background: none;
-  border: 1px solid #000;
+  border: 1px solid var(--text);
   padding: 0.6rem 1.4rem;
   font-size: 0.9rem;
   letter-spacing: 0.08em;
@@ -388,8 +402,8 @@ h2{ font-size: 22px; margin: 0 0 10px; }
 }
 
 .contact-submit:hover {
-  background: #000;
-  color: #fff;
+  background: var(--text);
+  color: var(--bg);
 }
 
 .hidden {
@@ -408,9 +422,21 @@ h2{ font-size: 22px; margin: 0 0 10px; }
 
 .thanks-return a {
   text-decoration: none;
-  border-bottom: 1px solid #bbb;
+  border-bottom: 1px solid var(--line);
 }
 
 .thanks-return a:hover {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid var(--text);
 }
+
+.meta--places{
+  font-size: 13px;
+  gap: 8px;
+}
+.place-link{
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.place-link{ text-decoration-thickness: 1px; }
+.place-link:hover{ text-decoration-thickness: 2px; }

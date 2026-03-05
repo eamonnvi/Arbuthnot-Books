@@ -17,9 +17,15 @@ links:
   sequence: https://www.amazon.co.uk/dp/B0FG3BGSG3
 
 entity_places:
+  - ancient_shepherds
+  - arjuna_wholefoods
+  - arts_theatre
   - brighton
+  - cambridge
   - edinburgh
   - fen_ditton
+  - hills_road
+  - jesus_green
   - mill_road
   
 meta:
