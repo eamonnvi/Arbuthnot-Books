@@ -1,4 +1,3 @@
-Victoria Road chapter of Event/Horizon
 ---
 title: Privilege & Precarity
 date: 2026-02-15
@@ -6,7 +5,7 @@ author:
 lede: Political background to the Victoria Road chapter of “Event/Horizon”.
 ---
 
-**Victoria Road**
+## Privilege & Precarity in *Event/Horizon*
 
 **Victoria Road**, the first chapter of Eamonn Vincent’s **Event/Horizon** opens in the register of the comic realist anecdote — a nervous interview, a battered truck, a curt foreman — and then quietly widens until it has sketched an entire social moment: the twilight of an undergraduate year, the squeeze of household finances, the seasonal scattering of friends. What feels at first like a vignette about an inept driving test is in fact a tight study of mobility and immobility — social, economic, emotional — staged in a city that is both site of privilege and a place of practical improvisation. The novel’s technique is notable for the way it attends to material detail in order to register larger political and cultural pressures; its atmosphere is composed from the friction of things — a “crash gearbox,” a tin of Old Holborn, a painted lamp-post reading “Reality Checkpoint” — that together make a period and a social world come alive.
 
