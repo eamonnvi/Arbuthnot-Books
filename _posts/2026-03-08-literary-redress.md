@@ -2,7 +2,7 @@
 title: The Architecture of Erasure
 date: 2026-03-08
 author: 
-lede: Domestic archives and literary redress in the "Jaz Smith" chapter of “Foul Papers”.
+lede: Domestic archives and literary redress in “Foul Papers”.
 ---
 
 **Jaz Smith**
