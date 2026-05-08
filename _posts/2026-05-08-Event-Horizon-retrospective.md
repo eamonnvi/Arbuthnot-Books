@@ -1,6 +1,9 @@
-
-
-**Event/Horizon in retrospect**
+---
+title: Event/Horizon in retrospect
+date: 2026-05-08
+author: Eamonn
+lede: How I see the book now that the dust has settled
+---
 
 Re-reading *Event/Horizon* after publication, I am struck less by what I remember intending than by what the finished book had already decided for itself. Time changes the order of emphasis. What seemed, during composition, to be local matters of scene, temperament, and contingency now look like parts of a much larger and quieter design. I can see patterns that I did not consciously build, at least not in any fully deliberate way. The novel appears to know certain things earlier than I did, and to distribute that knowledge through tone, motif, recurrence, and juxtaposition before any character is capable of saying it plainly.
 

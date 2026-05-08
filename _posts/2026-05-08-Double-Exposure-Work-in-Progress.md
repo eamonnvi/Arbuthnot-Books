@@ -1,5 +1,9 @@
-
-**Thoughts on a work in progress**
+---
+title: Double Exposure
+date: 2026-05-08
+author: Eamonn
+lede: Thoughts on a work in progess.
+---
 
 In *Double Exposure*, I set private feeling and public procedure into continuous interference with one another. I wanted no secure partition between the bedroom, the safe house, the registry, the hospital ward, the college gate, the hotel room, the cultural reception, the squat, or the border crossing. The novel’s pressure comes from the fact that each space is formally double: intimate life is conducted under possible surveillance, while the most impersonal operations are repeatedly redirected by longing, jealousy, grief, erotic memory, filial attachment, and the claims of children. The title names not merely espionage doubleness—twins, aliases, masks, false reports—but a more pervasive condition in which every encounter must be read simultaneously as human event and operational sign. I wanted that doubleness to govern not only content but the reader’s mode of attention.
 
