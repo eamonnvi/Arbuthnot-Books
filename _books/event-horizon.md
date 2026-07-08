@@ -27,6 +27,7 @@ entity_places:
   - hills_road
   - jesus_green
   - mill_road
+  - parkers_piece
   
 meta:
   - label: Setting
