@@ -20,14 +20,18 @@ entity_places:
   - ancient_shepherds
   - arjuna_wholefoods
   - arts_theatre
+  - botanic_gardens
   - brighton
   - cambridge
   - edinburgh
   - fen_ditton
+  - grantchester
   - hills_road
   - jesus_green
+  - midsummer_common
   - mill_road
   - parkers_piece
+  - stourbridge_common
   
 meta:
   - label: Setting
