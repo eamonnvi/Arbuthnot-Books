@@ -5,17 +5,14 @@ author_id: eamonn
 lede: Cambridge, 1974 — astrophysics & poetry.
 order: 1
 cover: /assets/EH-Front-cover-29nov25.jpg
-
 tags:
   - Cambridge · 1974
   - Coming of Age · Literary
   - Identity · Betrayal · Desire
-
 links:
   buy: https://www.amazon.co.uk/Event-Horizon-Eamonn-Vincent/dp/1916481345/
   sample: /assets/pdfs/EH-sample.pdf
   sequence: https://www.amazon.co.uk/dp/B0FG3BGSG3
-
 entity_places:
   - ancient_shepherds
   - arjuna_wholefoods
@@ -32,7 +29,7 @@ entity_places:
   - mill_road
   - parkers_piece
   - stourbridge_common
-  
+  - champion_of_the_thames
 meta:
   - label: Setting
     value: Cambridge
