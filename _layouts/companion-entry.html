@@ -1,0 +1,9 @@
+---
+layout: page
+---
+{{ content }}
+{% assign book = site.books | where: 'slug', page.book_id | first %}
+{% if book %}
+{% include book-sections.html book=book %}
+{% include book-return.html book=book %}
+{% endif %}

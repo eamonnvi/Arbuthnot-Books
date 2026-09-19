@@ -6,4 +6,4 @@ parent: England
 ---
 
 
-A city 55 miles north of London which is the principal setting of *Event/Horizon*.
+A city 55 miles north of London which is the principal setting of Eamonn Vincent's *Event/Horizon*.

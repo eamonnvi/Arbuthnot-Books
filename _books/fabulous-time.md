@@ -21,17 +21,17 @@ meta:
     value: Sussex
   - label: Year
     value: 1966
+entity_places:
+  - brighton
 ---
 
-Christina Koning’s <strong>Fabulous Time</strong> centres on Constance “Connie” Reason, an elderly, solitary former art student who lives amid the decaying comforts of Dunsinane with her near‑blind cocker spaniel Rufus. The novel alternates present domestic observation—Connie’s small rituals, memories and lonely walks—with extensive flashbacks and interwoven narratives about other inhabitants and visitors whose private histories and ambitions unsettle the house.
+In a decaying Sussex house where the clocks have stopped and the past refuses to stay buried, Connie Reason lives among fading memories, unfinished paintings and the ghosts of a life spent longing for freedom.
 
-Connie’s reminiscences trace a life shaped by art school, sea voyages, Shanghai’s colonial social world and a marriage to the taciturn Wilfred. She remembers youthful flirtations, especially with the charismatic, morally ambiguous artist Guy Strickland, whose attentions and later legacy form a structural and moral fulcrum in the story. The past enters the present in small sensory triggers—paint on a plate, the smell of sandalwood, portraits and spoils of earlier lives—that prod Connie’s recollections and underscore the book’s preoccupation with memory and loss.
+When an unexpected visit brings together a lonely old woman, a thwarted farmer, a charming opportunist and a beautiful young drifter, long-suppressed tensions begin to surface. As Connie’s thoughts return to the heat and colour of colonial Shanghai—and to the dangerous artist who once captivated her—the boundaries between memory, imagination and the supernatural grow increasingly uncertain.
 
-Parallel to Connie’s reveries, the narrative follows two men whose relationship drives much of the plot. Sandy Foulkes is a genteel, impecunious antiques dealer with old‑world manners and unglamorous debts. He loves Ray Brown—young, beautiful, sexually ambiguous, often ruthless—who alternates between flirtation and exploitation. Ray earns a precarious living modeling and restoring, and his mercurial appetite for luxury and escape makes him both desired and dangerous. Their intimacy is tender in parts but increasingly transactional, with money and social mobility determining the shape of attachment.
+Fabulous Time is an atmospheric, darkly comic novel of desire, deception and inheritance. With its vivid evocation of English country houses, wartime shadows, bohemian Brighton and a vanished Shanghai, it moves elegantly between past and present, balancing understated wit with a growing sense of menace.
 
-The discovery of Strickland’s will, and the revelation that Connie stands to inherit a substantial sum, triggers a moral crisis. Sandy, desperate and indebted, learns he is the principal beneficiary and fixates on the money as the means to secure his future with Ray. Ray, pragmatic and opportunistic, proposes accelerating events. A bungled, staged accident in the night—sleeping pills, a physical confrontation, a falling chandelier during a bohemian house party—culminates in Sandy’s death on the stairs. The muddled circumstances prompt police inquiry, an inquest and a spread of suspicion and gossip through the village and among the house’s small, variously compromised community.
+At its heart are unforgettable characters: flawed, funny and painfully human, each searching for love, security or escape—and each carrying secrets of their own.
 
-Koning keeps the tensions taut between the comic and the gothic: drunken bohemians and rock‑band outsiders transform the somnolent rectory into a carnival that contrasts with the household’s faded gentility; late‑night raids on cupboards, furtive letters and wills, and couching of violence beneath domestic ritual create an atmosphere of claustrophobic dread. Supernatural suggestion—ghostly apparitions, dream sequences of dead men and uncanny visions—blurs reality and memory, so that moral culpability and psychological haunting echo one another.
-
-Above all, the manuscript probes dependence and survival—how the desire for security distorts love and how inheritance and class shape choices. Women (Connie, Iseult, Leonora) negotiate shrinking options and retain stubborn agency within diminished means; the men enact yearning, predation and compromise. The novel’s close is suggestive rather than tidy: the house endures, relations are rearranged, reputations tarnished, and unanswered debts—ethical, emotional and spectral—linger.
+But in a house haunted by more than memories, who is truly in danger—and who will be left to tell the tale?
 

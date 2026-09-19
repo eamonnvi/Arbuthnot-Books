@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<p class="fine">{{ page.kind }}</p>
+{{ content }}
+<h2>Appears in</h2>
+{% for book_id in page.book_ids %}
+  {% assign book = site.books | where: 'slug', book_id | first %}
+  {% if book %}
+    {% assign people_url = '/people/' | append: book_id | append: '/' %}
+    <p><a href="{{ people_url | relative_url }}">People in {{ book.title }}</a></p>
+    {% include book-return.html book=book %}
+  {% endif %}
+{% endfor %}

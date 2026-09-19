@@ -30,6 +30,7 @@ entity_places:
   - parkers_piece
   - stourbridge_common
   - champion_of_the_thames
+  - ainsworth_street
 meta:
   - label: Setting
     value: Cambridge
@@ -37,8 +38,10 @@ meta:
     value: 1974
 ---
 
-<strong>Event/Horizon</strong> is a richly observed, quietly elegiac campus novel that follows a single year in the life of Steve Percival, an intelligent but indecisive recent undergraduate, as he staggers — often lovingly, sometimes self-destructively — through the transition from studenthood to a precarious adult life. The novel traces a familiar but fertile sequence of rites of passage: the interview and temporary jobs, the exhausting labor and rituals of early‑morning milk delivery, the music, the parties, the making and unmaking of relationships, the attempt to produce a work of art that will justify a life. It is written with a warm and often slyly comic intelligence; it maps a social microcosm with affectionate cruelty and an ear for the idioms of an English generation caught between bohemia and professional ambition.
+Steve Percival is about to leave Cambridge—and has no idea what comes next.
 
-Steve Percival, a recently-graduated, young poet of modest reputation and fragile self‑confidence, arrives at the pragmatic problem that will drive the early novel: he must earn money over the summer and, unwilling to take the predictable graduate path into commerce, takes a makeshift job as a roundsman for the Co‑operative Dairy. That decision sequences the book’s rhythms: the milk round becomes both a literal regimen (4:30 starts, the logistics of crates and routes) and a narrative motor forcing him into the town and into contact with a wide sample of Cambridge life.
+With Finals behind him, a precarious bank balance, an unfinished long poem and a summer stretching uncertainly ahead, Steve takes a job delivering milk through the quiet streets of 1970s Cambridge. What begins as a practical solution soon draws him into a shifting world of friendships, music, desire and artistic ambition.
 
-The story is grounded in four interlocking arcs: (1) the youthful, unstable romance with Angie Barrett — bright, privileged, heading to Edinburgh to start a PhD — who becomes the book’s clearest moral center and emotional barometer; (2) the passionate and destabilizing liaison with Ginny (Virginia Stern), a model/artist/queen‑of‑the‑scene who catalyzes Steve’s erotic life, challenges his loyalties, and ultimately abandons him; (3) the larger social world of friends (Alan, Harry, Jez, Rob), musicians (Jon, the Doodah Men), and mentors (Grace Mitchell, Dr. Doyle) who provide contrastive models of career, ambition and artistry; and (4) the inscrutable work in progress, the book‑length poem Event/Horizon, whose creation and revision operate as the text’s metanarrative, driving decisions, forging identities and, finally, functioning as the symbolic black hole around which Steve and others orbit.
+From early-morning rounds and smoky pubs to student parties, jazz guitars, experimental poetry and the charged atmosphere of the counter-culture, Event/Horizon follows a young man trying to discover who he is before life decides for him. Around Steve gather vivid, unpredictable figures: devoted friends, rival poets, demanding mentors, musicians, artists and women whose intelligence and force challenge his carefully guarded sense of self.
+
+Witty, reflective and richly atmospheric, this is a character-driven novel about love, self-invention and the uneasy passage from university into adulthood. It explores the pull between security and freedom, the risks of artistic ambition, and the ways we can be transformed by the people who enter our lives.

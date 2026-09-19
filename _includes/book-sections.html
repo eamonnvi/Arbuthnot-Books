@@ -1,0 +1,8 @@
+{% assign book_id = include.book.slug %}
+<nav class="companion-nav" aria-label="Explore {{ include.book.title | escape }}">
+  {% assign sections = "notes,places,people" | split: "," %}
+  {% for section in sections %}
+    {% assign section_url = '/' | append: section | append: '/' | append: book_id | append: '/' %}
+    <a class="btn secondary" href="{{ section_url | relative_url }}"{% if page.section == section and page.layout == 'book-section' %} aria-current="page"{% endif %}>{{ section | capitalize }}</a>
+  {% endfor %}
+</nav>

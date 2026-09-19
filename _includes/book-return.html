@@ -1,0 +1,5 @@
+<div class="companion-actions">
+  <a href="{{ include.book.url | relative_url }}">About {{ include.book.title }}</a>
+  {% if include.book.links.sample %}<a href="{{ include.book.links.sample | relative_url }}">Read a sample</a>{% endif %}
+  {% if include.book.links.buy %}<a href="{{ include.book.links.buy }}" target="_blank" rel="noopener">Buy / Retailers →</a>{% endif %}
+</div>

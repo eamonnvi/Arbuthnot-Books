@@ -21,17 +21,12 @@ meta:
     value: Edinburgh
   - label: Year
     value: 1976
+
+entity_places:
+  - edinburgh
 ---
-<strong>A MILD SUICIDE</strong> follows Saul Meyer, an American PhD student in Renaissance literature, and the entwined lives of those around him during a year in Edinburgh. Saul arrives lonely, homesick for his wife Virginia and dogged by academic insecurity under the sardonic Professor Richardson. He moves among a circle of expatriate scholars and bohemians—Magda, Jonathan Strange, Robin and Gillian Orr, Robert Fischer—attending parties, seminars and readings, where talk of literature and cultural decline alternates with sexual intrigue.
+In the rain-dark streets of 1970s Edinburgh, Saul Meyer is trying to build a future from scholarship, ambition and marriage. But when he meets Catherine—a fiercely intelligent, emotionally elusive fellow student—his carefully ordered life begins to shift.
 
-Saul’s central vulnerability is exposed when he meets Catherine, a mercurial, sexually adventurous woman who becomes his lover. Their affair is furtive and hedonistic, staged in cheap bedsits and in Jonathan’s more theatrical rooms. Catherine, who confesses a history of picking up men and finding playing cards in the street, oscillates between emotional detachment and a desire for control; she uses sex both for pleasure and as a way to assert power. Saul is alternately ardent and evasive: he wants intimacy but cannot break from the responsibilities and ties that bind him—particularly his marriage.
+As their relationship deepens, the boundaries between loyalty and desire, freedom and responsibility, begin to blur. Around them, the city becomes a world of libraries, smoky bars, ancient buildings, art galleries and winter gardens: beautiful, theatrical and faintly menacing. Through the eyes of Saul, Catherine and Virginia, Christina Koning explores the quiet negotiations of love, the stories people tell themselves, and the damage caused by what remains unsaid.
 
-Virginia, Saul’s wife, is introduced as earnest, practical and vulnerable. She comes to Edinburgh pregnant, bringing with her a straightforward moral tone that contrasts with Catherine’s amorality and Saul’s ambiguity. Virginia’s growing belly and expectations for domestic stability heighten the tension: Saul must navigate his attachment to Catherine, his guilt, and the duties of impending fatherhood. He repeatedly fails to confess the affair to Virginia, partly from cowardice and partly from a hope the affair might be a transient misstep.
-
-Social life—cocktail parties, readings by celebrity writers, Magda’s noisy, themed gatherings and a violent-sounding punk concert—provides a backdrop where ideas about art, identity and honesty are debated. The university setting and characters like the charismatic Leo Eisenberg and the curmudgeonly Richardson frame the novel’s recurring concerns about originality, the palimpsest of influences, and the difficulty of authentic expression. Catherine’s structuralist-tinged thesis and Saul’s Spenser studies offer metaphors for the layering and erasure of selves.
-
-A crisis comes with Virginia’s labor: complications, a night at the hospital, and a fraught delivery. Saul experiences a complex upheaval—guilt, awe at fatherhood, and reconciliation with his responsibilities. The birth of their son, Aaron John, is a turning point: Virginia and Saul return to America, Saul secures a position at Cornell, and their family takes precedence.
-
-Catherine is left to reckon with the affair’s aftermath. Initially intending to expose Saul, she refrains; in time she recognizes her marginal position. She absorbs the emotional cost and tries to move on—acknowledging that her role in Saul’s life, passionate yet provisional, was both disruptive and ultimately instrumental in restoring his marriage. The book closes on a poignant, ambiguous note: a postcard from Ithaca bearing a Spenser quotation and a serpent initial, a seal of continuing distance and the palimpsestic traces their connections have left behind.
-
-Throughout, Christina Koning explores desire, hypocrisy and the tension between public persona and private life—how people rewrite and delete one another like palimpsests, and how some acts of intimacy become, for better or worse, mild suicides of the self.
+Elegant, psychologically acute and richly atmospheric, A Mild Suicide is a novel of divided lives and compromised choices. Its restrained prose carries an undercurrent of tension, while its characters move through a landscape shaped as much by literature and art as by their own desires.

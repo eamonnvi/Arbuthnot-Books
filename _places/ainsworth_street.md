@@ -4,4 +4,4 @@ title: Ainsworth Street
 place_id: ainsworth_street
 ---
 
-A street in Cambridge. Appears in *Event/Horizon*.
+Location of the house that [Steve Percival](/people/entries/steve-percival/) shares with [Ginny Stern](/people/entries/ginny-stern) in [Event/Horizon](/books/event-horizon/)

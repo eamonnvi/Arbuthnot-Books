@@ -1,0 +1,16 @@
+---
+layout: page
+---
+{{ content }}
+<ul class="book-list">
+{% assign books = site.books | sort: "title" %}
+{% for book in books %}
+  {% assign section_url = '/' | append: page.section | append: '/' | append: book.slug | append: '/' %}
+  <li><a href="{{ section_url | relative_url }}">{{ book.title }}</a></li>
+{% endfor %}
+</ul>
+{% if page.section == 'notes' %}
+<p><a href="{{ '/notes/archive/' | relative_url }}">Essays and workshop reflections</a> — the existing archive, which may discuss plot developments.</p>
+{% elsif page.section == 'places' %}
+<p><a href="{{ '/places/all/' | relative_url }}">Browse all places alphabetically</a></p>
+{% endif %}

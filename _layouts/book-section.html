@@ -1,0 +1,37 @@
+---
+layout: page
+---
+{% assign book = site.books | where: "slug", page.book_id | first %}
+{% if book %}
+{% include book-sections.html book=book %}
+{{ content }}
+{% assign count = 0 %}
+<ul class="companion-list">
+{% if page.section == 'places' %}
+  {% assign entries = site.places | sort: 'title' %}
+  {% for entry in entries %}
+    {% if book.entity_places contains entry.place_id %}
+      {% assign count = count | plus: 1 %}
+      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+{% elsif page.section == 'people' %}
+  {% assign entries = site.people | sort: 'title' %}
+  {% for entry in entries %}
+    {% if entry.book_ids contains page.book_id %}
+      {% assign count = count | plus: 1 %}
+      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a> <span class="fine">— {{ entry.kind }}</span></li>
+    {% endif %}
+  {% endfor %}
+{% elsif page.section == 'notes' %}
+  {% assign entries = site.pages | where: 'layout', 'companion-entry' | where: 'book_id', page.book_id | sort: 'title' %}
+  {% for entry in entries %}
+    {% assign count = count | plus: 1 %}
+    <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></li>
+  {% endfor %}
+{% endif %}
+</ul>
+{% assign introduction = content | strip_html | strip %}
+{% if count == 0 and introduction == '' %}<p>These {{ page.section }} are being prepared.</p>{% endif %}
+{% include book-return.html book=book %}
+{% endif %}

@@ -1,3 +1,12 @@
 ---
 ---
 @import "base";
+
+.companion-nav, .companion-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin: 1.25rem 0;
+}
+.companion-nav [aria-current="page"] { font-weight: bold; text-decoration: underline; }
+.companion-actions { padding-top: 1rem; border-top: 1px solid currentColor; }

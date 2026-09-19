@@ -17,6 +17,9 @@ collections:
   books:
     output: true
     permalink: /books/:name/
+  people:
+    output: true
+    permalink: /people/entries/:name/
   places:
     output: true
     permalink: /places/:name/
@@ -32,3 +35,15 @@ defaults:
     values:
       layout: post
       section: notes
+
+# Local editorial material must not be copied into the published site.
+exclude:
+  - Template
+  - README.md
+  - editorial
+  - eh
+  - build_places_from_entities.py
+  - debug-places.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
