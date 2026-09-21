@@ -24,6 +24,9 @@ meta:
 entity_places:
   - upper-street-islington
   - westwich
+  - nerja
+  - upper_street_islington
+  - kings_head_upper_st
 ---
 
 In *Foul Papers*, politics, poetry and publicity collide in the deceptively quiet world of Westwich.

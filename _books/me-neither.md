@@ -21,6 +21,11 @@ meta:
     value: London & Cambridge
   - label: Year
     value: 1974-88
+entity_places:
+  - dalmally
+  - upper_street_islington
+  - kings_head_upper_st
+  - hope_and_anchor
 ---
 
 What happens when a Cambridge graduate leaves university with no career plan, an unpaid college bill and a willingness to try almost anything?
