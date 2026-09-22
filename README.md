@@ -131,3 +131,15 @@ Replace the example property values and body text before publishing.
 
 Template files are excluded from the generated website. Keep source evidence
 and working commentary in `editorial/`, rather than in the published entries.
+
+## The Thieves of Time sequence
+
+Edit `series/the-thieves-of-time/index.md` for the introduction and forthcoming
+book notice. Published books are listed automatically when their `_books` file
+has `series: the-thieves-of-time`; `order` sets their reading order. Covers and
+short descriptions come from each book's existing `cover` and `lede` properties.
+The book layout adds a link back to the sequence overview.
+
+When Double Exposure has its own book page, give it the same series identifier
+and `order: 4`, create its Notes, Places and People pages, and update the
+forthcoming paragraph on the sequence page.

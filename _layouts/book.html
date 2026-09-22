@@ -9,6 +9,13 @@ layout: default
 	{% if a %}
   	  <p class="fine">By <a href="{{ '/authors/' | append: page.author_id | append: '/' | relative_url }}">{{ a.name }}</a></p>
 	{% endif %}
+    {% assign sequence_page = nil %}
+    {% if page.series %}
+      {% assign sequence_page = site.pages | where: 'series_id', page.series | first %}
+    {% endif %}
+    {% if page.series and sequence_page %}
+      <p class="fine"><a href="{{ sequence_page.url | relative_url }}">{{ sequence_page.title }} sequence</a> · Book {{ page.order }}</p>
+    {% endif %}
     {% if page.lede %}
       <p class="lede">{{ page.lede }}</p>
     {% endif %}
@@ -49,7 +56,7 @@ layout: default
             </a>
           {% endif %}
 
-          {% if page.links.sequence %}
+          {% if page.links.sequence and sequence_page == nil %}
             <a class="btn ghost" href="{{ page.links.sequence }}" target="_blank" rel="noopener">
               Sequence / Series →
             </a>

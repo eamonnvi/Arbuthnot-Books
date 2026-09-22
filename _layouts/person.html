@@ -1,14 +1,28 @@
 ---
-layout: page
+layout: default
 ---
-<p class="fine">{{ page.kind }}</p>
-{{ content }}
-<h2>Appears in</h2>
-{% for book_id in page.book_ids %}
-  {% assign book = site.books | where: 'slug', book_id | first %}
-  {% if book %}
-    {% assign people_url = '/people/' | append: book_id | append: '/' %}
-    <p><a href="{{ people_url | relative_url }}">People in {{ book.title }}</a></p>
-    {% include book-return.html book=book %}
+<article class="person">
+  <header class="person__header">
+    <h1>{{ page.title }}</h1>
+    <p class="fine">{{ page.kind }}</p>
+  </header>
+
+  <div class="person__body prose">
+    {{ content }}
+  </div>
+
+  {% assign used_in = site.books | where_exp: "b", "page.book_ids contains b.slug" | sort: "order" %}
+  {% if used_in and used_in.size > 0 %}
+    <section class="person__books">
+      <h2>Appears in</h2>
+      <ul class="book-list">
+        {% for b in used_in %}
+          <li>
+            <a href="{{ b.url | relative_url }}">{{ b.title }}</a>
+            {% if b.lede %}<div class="muted">{{ b.lede }}</div>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
   {% endif %}
-{% endfor %}
+</article>

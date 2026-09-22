@@ -1,5 +1,6 @@
 ---
 layout: book
+series: the-thieves-of-time
 title: Event/Horizon
 author_id: eamonn
 lede: Cambridge, 1974 — astrophysics & poetry.
@@ -31,6 +32,7 @@ entity_places:
   - stourbridge_common
   - champion_of_the_thames
   - ainsworth_street
+  - glisson_road
 meta:
   - label: Setting
     value: Cambridge

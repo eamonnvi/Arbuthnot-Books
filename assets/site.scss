@@ -10,3 +10,19 @@
 }
 .companion-nav [aria-current="page"] { font-weight: bold; text-decoration: underline; }
 .companion-actions { padding-top: 1rem; border-top: 1px solid currentColor; }
+
+.sequence-books { list-style: none; padding: 0; }
+.sequence-book {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.sequence-book__cover { flex: 0 0 110px; }
+.sequence-book__cover img { display: block; width: 100%; height: auto; }
+.sequence-book h3 { margin-top: 0; }
+.sequence-book .fine { margin-top: 0; margin-bottom: .25rem; }
+@media (max-width: 480px) {
+  .sequence-book { gap: 1rem; }
+  .sequence-book__cover { flex-basis: 75px; }
+}

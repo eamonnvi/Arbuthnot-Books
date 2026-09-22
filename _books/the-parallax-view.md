@@ -1,5 +1,6 @@
 ---
 layout: book
+series: the-thieves-of-time
 title: The Parallax View
 author_id: eamonn
 lede: London & Cambridge, 1976 — archives, doubleness, and what is not said.
@@ -15,6 +16,18 @@ links:
   buy: https://www.amazon.co.uk/Parallax-View-Thieves-Time-Book-ebook/dp/B0FYY7SDYM/
   sample: /assets/pdfs/TPV-sample.pdf
   sequence: https://www.amazon.co.uk/dp/B0FG3BGSG3
+  
+entity_places:
+  - arts_theatre
+  - brighton
+  - cambridge
+  - edinburgh
+  - grantchester
+  - midsummer_common
+  - mill_road
+  - parkers_piece
+  - champion_of_the_thames
+  - glisson_road
 
 meta:
   - label: Setting

@@ -16,6 +16,8 @@ permalink: /books/
   </p>
 {% endif %}
 
+<p>Explore <a href="{{ "/series/the-thieves-of-time/" | relative_url }}">The Thieves of Time sequence</a> in reading order.</p>
+
 <ul class="book-list">
   {% assign ordered   = site.books | where_exp: "b", "b.order != nil and b.order != ''" | sort: "order" %}
   {% assign unordered = site.books | where_exp: "b", "b.order == nil or b.order == ''" | sort: "title" %}

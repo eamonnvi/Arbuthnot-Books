@@ -1,5 +1,6 @@
 ---
 layout: book
+series: the-thieves-of-time
 title: Palace of Tears
 author_id: eamonn
 lede: Cambridge & Berlin, 1975 — The Festival Theatre & Prenzlauer Berg.
@@ -15,7 +16,18 @@ links:
   buy: https://www.amazon.co.uk/Palace-Tears-Eamonn-Vincent/dp/1068703822/
   sample: /assets/pdfs/PoT-sample.pdf
   sequence: https://www.amazon.co.uk/dp/B0FG3BGSG3
-
+  
+entity_places:
+  - arts_theatre
+  - brighton
+  - cambridge
+  - edinburgh
+  - grantchester
+  - midsummer_common
+  - mill_road
+  - parkers_piece
+  - champion_of_the_thames
+  - glisson_road
 meta:
   - label: Setting
     value: London & Cambridge
