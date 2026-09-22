@@ -4,7 +4,6 @@ date: 2026-02-25
 author: Eamonn
 lede: Notes on the Victoria Road chapter of “Event/Horizon”.
 ---
-##  Threshold & Liminality in *Event/Horizon*
 
 ### Victoria Road
 

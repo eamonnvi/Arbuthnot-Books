@@ -28,6 +28,7 @@ entity_places:
   - parkers_piece
   - champion_of_the_thames
   - glisson_road
+  - berlin
 meta:
   - label: Setting
     value: London & Cambridge

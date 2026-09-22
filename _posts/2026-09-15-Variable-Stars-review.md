@@ -3,11 +3,8 @@ title: Variable Stars by Christina Koning
 date: 2026-09-15
 lede: A review of the historical novel about Caroline & William Herschel
 author: Eamonn
-book_ids:
-  - variable-stars
----
 
-# The Stars as Archive: Christina Koning’s *Variable Stars*
+---
 
 Christina Koning’s *Variable Stars* is a historical novel of unusual formal confidence: an expansive, many-voiced reimagining of the astronomical world around Caroline Herschel, her brother William, John Goodricke and Edward Pigott. Its governing idea is announced by its Keats epigraph — “Bright star, would I were stedfast as thou art” — only to be complicated at every turn. These stars are not steadfast. They brighten, dim, disappear behind companions, and return as altered light. So do the novel’s people.
 

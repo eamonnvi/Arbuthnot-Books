@@ -5,8 +5,6 @@ author:
 lede: Domestic archives and literary redress in “Foul Papers”.
 ---
 
-**Jaz Smith**
-
 What is most striking in this chapter is not simply its premise—a younger woman uncovering the submerged contribution of an older, forgotten one to a celebrated male poet’s work—but the way that premise is rendered through the ordinary apparatus of contemporary life: probate sales, Google Maps, café routines, copyright minutiae, a hotel bar whose social codes remain faintly archaic. The prose is not flamboyant. It proceeds by accumulation, by practical steps, by errands of inquiry. Yet out of that procedural texture the passage builds a recognisable moral and social atmosphere: provincial England as a place where literary prestige, gendered deference, and quiet surveillance coexist in unexpectedly intimate ways.
 
 Jaz enters as a figure of mixed temporalities. Her intellectual labour belongs to the university world—she recalls the “rush to complete her dissertation”—but her present life seems more improvised, crossing beauty work, coding, and freelance investigation. That doubleness matters. She is neither fully institutional nor wholly amateur, and the passage makes her liminal position productive. Because she is outside official literary culture, she encounters Davenport not first as canon but as neighbour, householder, routine, body in space. The old poet is introduced in two registers at once: “the noted English poet” and the local resident of Westwich, still inhabiting “the same house” as during the affair in the nineties. The novelistic intelligence here lies in refusing to separate the public author-function from the sediment of local life. Reputation is made to sit inside geography.
