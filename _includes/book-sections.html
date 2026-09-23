@@ -1,8 +1,17 @@
 {% assign book_id = include.book.slug %}
-<nav class="companion-nav" aria-label="Explore {{ include.book.title | escape }}">
+{% capture section_links %}
   {% assign sections = "notes,places,people" | split: "," %}
   {% for section in sections %}
     {% assign section_url = '/' | append: section | append: '/' | append: book_id | append: '/' %}
-    <a class="btn secondary" href="{{ section_url | relative_url }}"{% if page.section == section and page.layout == 'book-section' %} aria-current="page"{% endif %}>{{ section | capitalize }}</a>
+    {% assign section_page = site.pages | where: 'url', section_url | first %}
+    {% if section_page %}
+      <a class="btn secondary" href="{{ section_url | relative_url }}"{% if page.section == section and page.layout == 'book-section' %} aria-current="page"{% endif %}>{{ section | capitalize }}</a>
+    {% endif %}
   {% endfor %}
-</nav>
+{% endcapture %}
+{% assign section_links = section_links | strip %}
+{% if section_links != '' %}
+  <nav class="companion-nav" aria-label="Explore {{ include.book.title | escape }}">
+    {{ section_links }}
+  </nav>
+{% endif %}

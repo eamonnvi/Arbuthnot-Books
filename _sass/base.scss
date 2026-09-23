@@ -322,6 +322,14 @@ h2{ font-size: 22px; margin: 0 0 10px; }
   grid-row: 2;
 }
 
+@media (max-width: 860px) {
+  .home-cover,
+  .home-notes {
+    grid-column: auto;
+    grid-row: auto;
+  }
+}
+
 .book-list__item {
   margin-bottom: 1.2rem;
 }
