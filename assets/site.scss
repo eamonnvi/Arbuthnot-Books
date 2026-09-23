@@ -26,3 +26,18 @@
   .sequence-book { gap: 1rem; }
   .sequence-book__cover { flex-basis: 75px; }
 }
+.author-photo {
+  display: block;
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.prose img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
