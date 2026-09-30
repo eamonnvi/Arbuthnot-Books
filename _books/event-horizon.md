@@ -33,6 +33,7 @@ entity_places:
   - champion_of_the_thames
   - ainsworth_street
   - glisson_road
+  - locomotive_pub_mill_rd
 meta:
   - label: Setting
     value: Cambridge
