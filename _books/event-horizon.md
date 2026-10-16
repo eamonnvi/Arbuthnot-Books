@@ -34,6 +34,7 @@ entity_places:
   - ainsworth_street
   - glisson_road
   - locomotive_pub_mill_rd
+  - reality_checkpoint
 meta:
   - label: Setting
     value: Cambridge

@@ -24,6 +24,9 @@ collections:
     output: true
     permalink: /places/:name/
 
+include:
+  - _redirects
+
 defaults:
   - scope:
       path: ""

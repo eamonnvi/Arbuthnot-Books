@@ -1,0 +1,22 @@
+# Arbuthnot Books: verified historical content paths from Netlify captures.
+# Exact 301 redirects only; no wildcard, forced redirect, or catch-all.
+# Functional/admin/spam/probe paths intentionally have no rules.
+# Install beside _config.yml and add _redirects to its include list.
+
+# Capture: 2026-09-16.md:88
+/me-neither.html  /books/me-neither/  301
+
+# Capture: 2026-09-15.md:89
+/images/a-mild-suicide-cover.jpg  /assets/a-mild-suicide-cover.jpg  301
+
+# Capture: 2026-09-16.md:91
+/images/WWN-front-cover-whitstable.jpg  /assets/WWN-Front-cover.jpg  301
+
+# Capture: 2026-09-16.md:92
+/images/the-dark-tower-cover.jpg  /assets/the-dark-tower-cover.jpg  301
+
+# Capture: 2026-09-16.md:94
+/images/foul-papers-cover.jpg  /assets/FP-KDP-23oct25.png  301
+
+# Capture: 2026-09-16.md:83
+/assets/pdfs/TPV-17nov25-sample.pdf  /assets/pdfs/TPV-sample.pdf  301
