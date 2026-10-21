@@ -8,6 +8,8 @@ book_ids:
   - the-parallax-view
 ---
 
+### Established identity and circumstances
+
 Angie is Steve’s lover for approximately a year, a Cambridge student who achieves a First and plans to begin a PhD in Edinburgh. She has a teaching job in Brighton for the summer and later moves to Edinburgh (“Clear Spot”; “Graduation”).
 
 She writes fluently and continuously. Steve discovers that she has drafted a novel, although she has discarded pages and refuses to treat all writing as material for an audience (“Negative Poetics”).
@@ -37,7 +39,7 @@ Angie is articulate, intellectually agile and capable of matching Steve’s lite
 
 ### Development and position at the end
 
-Angie moves from hopeful partner to independent former lover. Her relationship with Declan ends; she then becomes Rob’s partner. Her later letters show continuing care but also a stronger insistence on boundaries. At the end, she wants friendship and asks Steve to accept her relationship with Rob. The possibility of future contact remains, but romantic reconciliation is explicitly rejected.
+Angie moves from hopeful partner to independent former lover. Her relationship with Declan ends; she then becomes Rob’s partner. Her later letters show continuing care but also a stronger insistence on boundaries. At the end of *Event/Horizon*, she wants friendship and asks Steve to accept her relationship with Rob. The possibility of future contact remains, but romantic reconciliation is explicitly rejected.
 
 ### Knowledge and uncertainty
 

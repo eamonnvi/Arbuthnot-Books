@@ -20,7 +20,12 @@ layout: page
   {% for entry in entries %}
     {% if entry.book_ids contains page.book_id %}
       {% assign count = count | plus: 1 %}
-      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a> <span class="fine">— {{ entry.kind }}</span></li>
+      {% assign person_url = entry.url | relative_url %}
+      {% assign book_anchor = entry.book_anchors[page.book_id] %}
+      {% if book_anchor and book_anchor != '' %}
+        {% assign person_url = person_url | append: '#' | append: book_anchor %}
+      {% endif %}
+      <li><a href="{{ person_url }}">{{ entry.title }}</a> <span class="fine">— {{ entry.kind }}</span></li>
     {% endif %}
   {% endfor %}
 {% elsif page.section == 'notes' %}

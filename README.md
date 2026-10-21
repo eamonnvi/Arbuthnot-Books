@@ -143,3 +143,31 @@ The book layout adds a link back to the sequence overview.
 When Double Exposure has its own book page, give it the same series identifier
 and `order: 4`, create its Notes, Places and People pages, and update the
 forthcoming paragraph on the sequence page.
+
+## Link a book's People list to a section within a portrait
+
+A person can have a separate heading for each book within their existing file.
+Give each heading an explicit anchor (a stable label for the link):
+
+```markdown
+# Palace of Tears {#palace-of-tears}
+```
+
+Then add this optional property alongside `book_ids` at the top of that person's
+file:
+
+```yaml
+book_anchors:
+  event-horizon: event-horizon
+  palace-of-tears: palace-of-tears
+```
+
+The left side identifies the book; the right side matches the heading's anchor,
+without `#`. Only list anchors for sections that actually exist. Keep `book_ids`
+as before: it controls which books list the person. Without a matching
+`book_anchors` entry, a book's People list opens the portrait at the top.
+
+For example, Palace of Tears now links to
+`/people/entries/steve-percival/#palace-of-tears`. This scrolls to the heading;
+it does not hide the other sections or protect readers from spoilers elsewhere
+on the same page.
