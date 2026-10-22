@@ -1,0 +1,226 @@
+[
+  {
+    "source": "_people/agatha-ponsonby.md",
+    "target": "people/who-was-nightshade/agatha-ponsonby.md",
+    "book_id": "who-was-nightshade",
+    "status": "moved",
+    "body_sha256": "cecead5cf258c67255ed9c10b68323161282a8854c4dc4472a36f5d92fc7dc9f",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/angie-barrett.md",
+    "target": "people/event-horizon/angie-barrett.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "023d064ed622f9f770f1b90d352552c2044c56ef6f10d597dcdaffe3bc020b07",
+    "assignment": "Event/Horizon content inferred from narrative and end-position sections"
+  },
+  {
+    "source": "_people/angie-barrett.md",
+    "target": "people/palace-of-tears/angie-barrett.md",
+    "book_id": "palace-of-tears",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/angie-barrett.md",
+    "target": "people/the-parallax-view/angie-barrett.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/caroline-herschel.md",
+    "target": "people/variable-stars/caroline-herschel.md",
+    "book_id": "variable-stars",
+    "status": "moved",
+    "body_sha256": "dfd910784e0e918b55164e8d01d73a0882fdbb05a0e7ca7aec754e523a05cfbb",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/florence-hodges.md",
+    "target": "people/who-was-nightshade/florence-hodges.md",
+    "book_id": "who-was-nightshade",
+    "status": "moved",
+    "body_sha256": "c71978f6308df8978e0c10e01ae8dc429cdfa2bd288412a793b8bdb500e4dbe4",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/ginny-stern.md",
+    "target": "people/event-horizon/ginny-stern.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "24e3b36fbf705c2a29167f2881053b9048735c008c16750f3e013d2f5f92d293",
+    "assignment": "Event/Horizon content inferred from narrative and end-position sections"
+  },
+  {
+    "source": "_people/ginny-stern.md",
+    "target": "people/palace-of-tears/ginny-stern.md",
+    "book_id": "palace-of-tears",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/ginny-stern.md",
+    "target": "people/the-parallax-view/ginny-stern.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/godfrey-golzen.md",
+    "target": "people/me-neither/godfrey-golzen.md",
+    "book_id": "me-neither",
+    "status": "moved",
+    "body_sha256": "858d9c35d312a9bce74060d21ad67a1d558075de2b2ac289298bfc2570ad883a",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/grace-mitchell.md",
+    "target": "people/event-horizon/grace-mitchell.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "648769d63f301f35eabf8e7f5bd208b2f124cdef22fe26e87fff8f4a7eaea094",
+    "assignment": "explicit heading"
+  },
+  {
+    "source": "_people/grace-mitchell.md",
+    "target": "people/palace-of-tears/grace-mitchell.md",
+    "book_id": "palace-of-tears",
+    "status": "moved",
+    "body_sha256": "289e3b4d15086aaaab6ed093c9b0b43aa5e0bb42f7f42b71872777affc1b37ec",
+    "assignment": "explicit heading"
+  },
+  {
+    "source": "_people/grace-mitchell.md",
+    "target": "people/the-parallax-view/grace-mitchell.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/john-blunden.md",
+    "target": "people/foul-papers/john-blunden.md",
+    "book_id": "foul-papers",
+    "status": "moved",
+    "body_sha256": "622633cb361be194ffcbe95782a47ecb33c5592b56a2a7435c530a7011832ab3",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/john-keay.md",
+    "target": "people/me-neither/john-keay.md",
+    "book_id": "me-neither",
+    "status": "moved",
+    "body_sha256": "5e7852bff5c9c0ca1bc3b6298ec7c8fa5b02e63f14483ccd6e1616f3c6464208",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/jon-chapman.md",
+    "target": "people/event-horizon/jon-chapman.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "74aef570cf23165a6b467faa9f65bd852415b1d87809b8124806f03f4b6ec6ca",
+    "assignment": "Event/Horizon content inferred from narrative and end-position sections"
+  },
+  {
+    "source": "_people/jon-chapman.md",
+    "target": "people/palace-of-tears/jon-chapman.md",
+    "book_id": "palace-of-tears",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/jon-chapman.md",
+    "target": "people/the-parallax-view/jon-chapman.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/peter-newman.md",
+    "target": "people/event-horizon/peter-newman.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "49c3fef0d4d3890feb93a73ebc8a8e9082f0461019fd9ded6cd952a467bd26be",
+    "assignment": "Event/Horizon content inferred from narrative and end-position sections"
+  },
+  {
+    "source": "_people/peter-newman.md",
+    "target": "people/palace-of-tears/peter-newman.md",
+    "book_id": "palace-of-tears",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/peter-newman.md",
+    "target": "people/the-parallax-view/peter-newman.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/richard-warren.md",
+    "target": "people/who-was-nightshade/richard-warren.md",
+    "book_id": "who-was-nightshade",
+    "status": "moved",
+    "body_sha256": "884e03a56707e424bc980dfc03b440070947df4793693f350e4478e8a2d5efd1",
+    "assignment": "single book"
+  },
+  {
+    "source": "_people/rob-williams.md",
+    "target": "people/event-horizon/rob-williams.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "1fdf0622e1362788ffb3eb214cffbba9b643eaafcc8d9c76a74f81500364200f",
+    "assignment": "Event/Horizon content inferred from narrative and end-position sections"
+  },
+  {
+    "source": "_people/rob-williams.md",
+    "target": "people/palace-of-tears/rob-williams.md",
+    "book_id": "palace-of-tears",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/rob-williams.md",
+    "target": "people/the-parallax-view/rob-williams.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  },
+  {
+    "source": "_people/steve-percival.md",
+    "target": "people/event-horizon/steve-percival.md",
+    "book_id": "event-horizon",
+    "status": "moved",
+    "body_sha256": "372bdb472d49540668ff63e725ddd716ca1dd7c31f9b7d0cfc457ee94706e84e",
+    "assignment": "explicit heading"
+  },
+  {
+    "source": "_people/steve-percival.md",
+    "target": "people/palace-of-tears/steve-percival.md",
+    "book_id": "palace-of-tears",
+    "status": "moved",
+    "body_sha256": "cfe8f902059ab07a8a52ed0243659774bb7681e1dfee88bf0262aa5dd0600660",
+    "assignment": "explicit heading"
+  },
+  {
+    "source": "_people/steve-percival.md",
+    "target": "people/the-parallax-view/steve-percival.md",
+    "book_id": "the-parallax-view",
+    "status": "placeholder",
+    "body_sha256": "1e63e6cb1a84375a27bdd27c0a69d80ec0ffa3fca37ea98ad9cfb4fe0854ccf9",
+    "assignment": "no source section yet"
+  }
+]

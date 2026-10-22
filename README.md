@@ -49,23 +49,41 @@ book sections.
 
 ## Add a Person
 
-Create `_people/person-name.md` with:
+Write each portrait inside its book's folder, for example
+`people/palace-of-tears/steve-percival.md`. Use the Person template:
 
 ```yaml
 ---
-layout: person
-title: Person's name
+layout: book-person
+title: Steve Percival
 kind: Fictional character
-book_ids:
-  - event-horizon
+person_id: steve-percival
+book_id: palace-of-tears
+permalink: /people/palace-of-tears/steve-percival/
 ---
 ```
 
-Use either `Fictional character` or `Historical / real person` for `kind`.
-Write the short portrait beneath the properties. Add further book identifiers
-when appropriate. Each entry is stored once and automatically appears on the
-relevant books' People pages, with return links. Its public address is
-`/people/entries/person-name/`, keeping it separate from book section addresses.
+Write that book's portrait below the properties. It is listed automatically
+on the book's People page. Its footer links to that book's Notes, Places,
+People, sample and purchase page.
+
+- `book_id` is the book filename from `_books`, without `.md`.
+- `person_id` is a stable name such as `steve-percival`. Reuse it when writing
+  about the same person in another book.
+- `kind` is `Fictional character` or `Historical / real person`.
+- `permalink` must be unique and match the intended book/person address.
+
+For another book, create another file in that book's folder and change
+`book_id` and `permalink`. There are no `book_ids` or `book_anchors` properties
+on the new portraits. Memoir portraits belong in `people/me-neither/`.
+
+The existing `_people` files now serve only as selection pages for old links
+such as `/people/entries/steve-percival/`. They list the available book-specific
+portraits using `person_id`, without combining their prose. Existing book
+anchors still land on the corresponding choice. You do not need an `_people`
+file for a new person; the book's People list finds its portrait automatically.
+If you want a selection page too, copy an existing `_people` file and change
+its title, kind and person_id.
 
 ## Add a Place
 
@@ -123,8 +141,9 @@ Replace the example property values and body text before publishing.
 - **Note:** save in `notes/<book-id>/`. Set `book_id` to the book filename
   without `.md`, and give `permalink` a unique address such as
   `/notes/event-horizon/zettelkasten/`.
-- **Person:** save in `_people/`. Set `kind` to `Fictional character` or
-  `Historical / real person`. List each associated book under `book_ids`.
+- **Person:** save in `people/<book-id>/`. Set `book_id`, `person_id`, and the
+  matching `permalink`. Set `kind` to `Fictional character` or
+  `Historical / real person`. Each file covers one book only.
 - **Place:** save in `_places/`. Use a stable identifier for `place_id` and
   add that exact identifier to each relevant book's `entity_places` list.
   Optionally add `parent` for an existing parent place identifier.
@@ -144,30 +163,16 @@ When Double Exposure has its own book page, give it the same series identifier
 and `order: 4`, create its Notes, Places and People pages, and update the
 forthcoming paragraph on the sequence page.
 
-## Link a book's People list to a section within a portrait
+## Saved anchor experiment and migration
 
-A person can have a separate heading for each book within their existing file.
-Give each heading an explicit anchor (a stable label for the link):
+The local tag `anchor-experiment` preserves commit `bde2dec`. The refactoring
+is on `codex/book-specific-people`. The original prose is recoverable from that
+tag; the migration preserves it in book-specific files.
 
-```markdown
-# Palace of Tears {#palace-of-tears}
-```
+`editorial/people-migration.md` describes the assignments and outstanding
+portraits. `editorial/people-migration.json` records each source, destination
+and body checksum. Neither report is included in the website build.
 
-Then add this optional property alongside `book_ids` at the top of that person's
-file:
-
-```yaml
-book_anchors:
-  event-horizon: event-horizon
-  palace-of-tears: palace-of-tears
-```
-
-The left side identifies the book; the right side matches the heading's anchor,
-without `#`. Only list anchors for sections that actually exist. Keep `book_ids`
-as before: it controls which books list the person. Without a matching
-`book_anchors` entry, a book's People list opens the portrait at the top.
-
-For example, Palace of Tears now links to
-`/people/entries/steve-percival/#palace-of-tears`. This scrolls to the heading;
-it does not hide the other sections or protect readers from spoilers elsewhere
-on the same page.
+Separating pages prevents accidental scrolling into another book's portrait.
+It does not make the existing prose spoiler-free within its own book: editorial
+revision remains separate from this structural change.

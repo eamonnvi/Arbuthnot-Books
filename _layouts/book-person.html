@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% assign book = site.books | where: 'slug', page.book_id | first %}
+<article class="person">
+  <header class="person__header">
+    <h1>{{ page.title }}</h1>
+    <p class="fine">{{ page.kind }}{% if book %} · In <a href="{{ book.url | relative_url }}">{{ book.title }}</a>{% endif %}</p>
+  </header>
+  <div class="person__body prose">
+    {{ content }}
+  </div>
+  {% if book %}
+    {% include book-sections.html book=book %}
+    {% include book-return.html book=book %}
+  {% endif %}
+</article>

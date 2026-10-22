@@ -1,9 +1,10 @@
 ---
-layout: person
+layout: book-person
 title: "Replace with the person's name"
 kind: Fictional character
-book_ids:
-  - replace-with-book-id
+person_id: replace-with-person-id
+book_id: replace-with-book-id
+permalink: /people/replace-with-book-id/replace-with-person-id/
 ---
 
-Write a short, spoiler-free portrait here.
+Write this person's portrait for this book here.

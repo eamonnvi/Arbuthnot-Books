@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<p class="fine">{{ page.kind }}</p>
+<p>Choose a book to read this person's portrait in that book.</p>
+{% assign portraits = site.pages | where: 'layout', 'book-person' | where: 'person_id', page.person_id %}
+{% assign books = site.books | sort: 'order' %}
+<ul class="book-list">
+{% for book in books %}
+  {% assign portrait = portraits | where: 'book_id', book.slug | first %}
+  {% if portrait %}
+    <li id="{{ book.slug }}">
+      <a href="{{ portrait.url | relative_url }}">{{ book.title }}</a>
+      {% if book.lede %}<div class="muted">{{ book.lede }}</div>{% endif %}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
