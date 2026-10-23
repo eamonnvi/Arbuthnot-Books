@@ -9,7 +9,7 @@ permalink: /people/palace-of-tears/mavis=percival/
 
 ### Established identity and circumstances
 
-Mavis is Steve’s mother, full name Mavis Cicely Percival, née Daniels. She raised Steve effectively as a single parent after the death of his father. She works for the Foreign Office as a cover for a senior intelligence career.
+Mavis is Steve’s mother, full name Mavis Cicely Percival, née Daniels. She raised Steve effectively as a single parent after the death of his father. She works for the Foreign Office as a cover for a senior intelligence career, but Steve does not know about her intelligence career.
 
 She has worked in Germany since the post-war period, including Wolfsburg and Berlin during the blockade, and was later involved in operations concerning East Germany. She is described by official and personal testimony as highly competent, discreet and respected.
 
